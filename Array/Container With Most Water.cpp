@@ -13,7 +13,7 @@ Output: 49
 Explanation:In this case, the max area of water the container can contain is 49.
 */
 
-// Solution
+// Solution wit code
 // The aim is to maximize the area formed between the vertical lines. 
 // The area of any container is calculated using the shorter line as length 
 // and the distance between the lines as the width of the rectangle.
